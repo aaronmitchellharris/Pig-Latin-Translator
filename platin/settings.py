@@ -25,7 +25,7 @@ SECRET_KEY = '73se@cz@ozkwtb_-x*=2w=)@v%ac0g%6k-a61bg*p%+r-_kv@g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['piglatin.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
