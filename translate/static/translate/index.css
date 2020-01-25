@@ -1,0 +1,30 @@
+#title {
+    margin-top: 50px;
+}
+
+#btn {
+    margin-top: 50px;
+}
+
+#translation {
+    margin-top: 100px;
+}
+
+.card {
+    max-width: 50rem;
+    margin: auto;
+}
+
+.pig {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-md-3 {
+    margin:auto;
+}
+
+.col-md-6 {
+    margin:auto;
+}
