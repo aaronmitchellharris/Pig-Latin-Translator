@@ -1,1 +1,1 @@
-web: gunicorn piglatin.wsgi:application --log-file -
+web: gunicorn platin.wsgi:application --log-file -
