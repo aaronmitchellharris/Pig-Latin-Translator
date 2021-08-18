@@ -13,7 +13,7 @@ considered a vowel otherwise.
 
 ### Built With
 
-[Django 3.0](https://docs.djangoproject.com/en/3.0/) - Website Framework
+[Django 3.1.12](https://docs.djangoproject.com/en/3.0/) - Website Framework
 
 [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Website Stylization
 
